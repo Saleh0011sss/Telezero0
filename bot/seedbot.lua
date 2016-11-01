@@ -233,6 +233,7 @@ function create_config( )
     "msg_checks"
     "warn"
     "up"
+    "fwd"
     },
     sudo_users = {188383245,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
